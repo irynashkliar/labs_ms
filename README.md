@@ -1,2 +1,2 @@
 # labs_ms
-Repository for labs made at masters study
+Repository for labs made at master's study
